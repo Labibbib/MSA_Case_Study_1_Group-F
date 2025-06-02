@@ -308,3 +308,4 @@ smua : semua
 suarax : suaranya
 dikelolah : dikelola
 sprt : seperti
+danantaranya : danantara
