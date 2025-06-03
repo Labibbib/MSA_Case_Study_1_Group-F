@@ -250,7 +250,6 @@ aja : saja
 gw : saya
 gak : tidak
 klo : kalau
-bro : saudara laki-laki
 anjir : anjing
 dong : ya
 adlh : adalah
