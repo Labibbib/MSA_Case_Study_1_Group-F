@@ -26,7 +26,7 @@ toktok : tiktok
 wowo : prabowo
 wiwi : jokowi
 bng : bang
-depri : DPR
+depri : dpr
 korup : korupsi
 dark : gelap
 bnyk : banyak
