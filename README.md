@@ -31,7 +31,7 @@ Berdasarkan analisis sentimen terhadap komentar di YouTube, peluncuran Danantara
 Kontributor:
 | Nama | NIM | Kelas |
 | -------- | -------- | -------- |
-| Ibnullabib   | 11220940000037   |  A  | 
-| Uswatun Hasanah | 11220940000053   |   B |
-| Muhammad Saeful Anwar | 11210940000061   |  B  |
-| Dina Sekar Juliati | 11210940000020   |  A  |
+| Ibnullabib   | 11220940000037   | 
+| Uswatun Hasanah | 11220940000053   |
+| Muhammad Saeful Anwar | 11210940000061   |
+| Dina Sekar Juliati | 11210940000020   |
