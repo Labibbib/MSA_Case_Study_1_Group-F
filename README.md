@@ -27,3 +27,11 @@ Peluncuran Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) oleh Pre
 
 ## **Kesimpulan**
 Berdasarkan analisis sentimen terhadap komentar di YouTube, peluncuran Danantara oleh Presiden Prabowo Subianto pada 24 Februari 2025 telah menarik perhatian publik secara masif, yang ditandai dengan lonjakan tajam komentar hingga mencapai hampir 1.750 dalam sehari. Meskipun inisiatif ini bertujuan untuk mempercepat pertumbuhan ekonomi, respons publik didominasi oleh sentimen negatif (57,9%)  yang dipicu oleh kekhawatiran mendalam akan korupsi, kurangnya transparansi, dan ketidakpercayaan terhadap pengelolaan dana, dengan banyak warganet membandingkannya dengan skandal investasi sebelumnya seperti Jiwasraya, Asabri, dan 1MDB Malaysia. Di tengah harapan agar Danantara dapat meniru kesuksesan Temasek Singapura, kata-kata seperti "korupsi", "percaya", dan "investasi" mendominasi percakapan. menunjukkan adanya dilema antara harapan perbaikan ekonomi dan kecemasan akan kegagalan sistem. Oleh Karena itu, direkomendasikan agar pemerintah memperkuat komunikasi publik yang edukatif dan transparan, meningkatkan akuntabilitas melalui pelaporan berkala, dan mempercepat legislasi RUU perampasan aset untuk membangun kembali kepercayaan masyarakat.
+
+Kontributor:
+| Nama | NIM | Kelas |
+| -------- | -------- | -------- |
+| Ibnullabib   | 11220940000037   |  A  | 
+| Uswatun Hasanah | 11220940000053   |   B |
+| Muhammad Saeful Anwar | 11210940000061   |  B  |
+| Dina Sekar Juliati | 11210940000020   |  A  |
